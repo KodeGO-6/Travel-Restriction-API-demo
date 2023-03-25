@@ -44,5 +44,10 @@ Finally, open a browser and go to `http://localhost:5000`
 
 NOTE: I'll try to create demo for the the other APIs in their catalog
 
+---
+### ISSUES & BUGS
+1. There might be instance that it will return a `TypeError: Cannot read properties of undefined (reading 'text')`,
+just try to search for another country. See which one works.
+
 
 
