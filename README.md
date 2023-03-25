@@ -2,7 +2,7 @@
 
 # [Travel Restrictions API documentation and examples](https://developers.amadeus.com/self-service/category/covid-19-and-travel-safety/api-doc/travel-restrictions/api-reference)
 
-## Register to Amadeus for Developers to get your API Key
+## Register to [Amadeus for Developers](https://developers.amadeus.com/) to get your API Key
 
 ---
 ### Read their documentations
